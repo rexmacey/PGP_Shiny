@@ -1,0 +1,1 @@
+Note that the first and last years will only be partial years if the beginnnig and ending months are not January and December respectively.

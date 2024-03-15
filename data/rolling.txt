@@ -1,0 +1,7 @@
+In practice, investors often evaluate their portfolio by examining its performance relative to a benchmark over the last 1, 3, 5 or 10 years. These four charts illustrate PGP’s return relative to the S&P Index and the balanced portfolio. 
+
+When comparing the 100% PGP / 0% Bonds (PGP100_Bond0) to 100% Stock (Port100S0B) over all the available data, we can see:
+* There can be large differences between PGP and the S&P Index
+* PGP tends to be much better than the S&P when the S&P Index has been in a long decline
+* S&P Index tends to be much better when it rises sharply after a long decline because PGP is still out of the market
+* PGP tends to be more stable than the S&P with fewer of the highest or lowest returns on a chart

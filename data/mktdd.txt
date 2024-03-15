@@ -1,0 +1,8 @@
+This table shows the periods when the S&P dropped by at least 10%. 
+Here are a few observations based on the data from Dec 1925:
+
+* PGP does significantly better than the worst drawdowns
+
+* When the drawdown is protracted (Months column is larger), it appears to protect better than short drawdowns
+
+* It didn’t perform well in 1987 drawdown which had a duration of only 3 months. The S&P dropped 2.2% in September and then lost 21.5% in October. Because the September drop was small, the rule did not signal to be out of the market. This is important - PGP should not be expected to protect against sudden, sharp declines. It is more effective against protracted declines.

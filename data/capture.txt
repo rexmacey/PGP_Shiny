@@ -1,0 +1,5 @@
+The goal of PGP is to avoid the brunt of market downturns while still participating in up markets.  These charts might best address whether PGP achieves this goal.  
+
+Each chart shows how the PGP and portfolios performed in (10 year, 5 year, 3 year and 1 year) periods when the S&P Index was Up (at least zero); when the S&P Index was Down; and, across All periods. The height of the bars are the average returns.  The number in the bars is the percentage of the market. A negative value indicates the portfolio moved in the opposite direction of the market (i.e., the portfolio was up when the market was down). The number of rolling periods is shown within parenthesis in the horizontal axis. 
+
+While protection is important, there are more up periods than down so one should carefully consider the relative importance of performance in up and down markets.  

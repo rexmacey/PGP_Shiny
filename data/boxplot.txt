@@ -1,0 +1,5 @@
+These charts show the range of the rolling returns. The rectangle contains one-half of the values. The median value is the horizontal line inside the rectangle The whiskers extend to the lesser of 1.5x the box and the most extreme value; outliers beyond that are shown as points. From these charts using the maximum history, one can see
+
+* PGP has produced a similar median value with more consistency (less extremes) than the S&P Index
+* PGP has a higher median return than the 60% Stock / 40% Bond portfolio over 5 and 10 years.
+* PGP has had more extreme values over 5 and 10 year periods than the 60% Stock / 40% Bond portfolio but has been less extreme over 1 and 3 years.
